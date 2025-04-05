@@ -6,6 +6,7 @@ Desde la Perspectiva del Público Estadounidense
 Este proyecto tiene como objetivo inferir el grado de aceptación del discurso pronunciado por el presidente argentino Javier Milei en el Foro Económico Mundial de Davos, tomando como fuente más de 8.000 comentarios de usuarios estadounidenses en YouTube.
 
 Se aplicó análisis de sentimiento automático utilizando el algoritmo VADER, especialmente diseñado para lenguaje informal en redes sociales. La elección del modelo se basó en su robustez frente a expresiones coloquiales, ironías y estructuras lingüísticas comunes en plataformas digitales.
+
 🛠️ Tecnologías y Herramientas
 
     Python 3
