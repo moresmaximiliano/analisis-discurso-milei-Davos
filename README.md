@@ -50,15 +50,3 @@ Este tipo de análisis permite:
     Detectar patrones espontáneos de opinión pública.
 
     Comprender la percepción extranjera de líderes políticos en tiempo real.
-
-🧠 Conclusiones
-
-Los resultados del análisis de sentimiento aplicados sobre más de 8.000 comentarios de usuarios estadounidenses en YouTube reflejan un apoyo significativo al discurso del presidente Javier Milei en el Foro de Davos. Aunque el estudio presenta un sesgo etario y tecnológico —al centrarse exclusivamente en plataformas digitales—, este nivel de aprobación resulta llamativo, especialmente al contrastarlo con las reacciones críticas en entornos hispanohablantes.
-
-Los datos permiten inferir que el votante estadounidense alineado con ideas de derecha —presunto público predominante de este tipo de contenido— muestra una marcada afinidad hacia discursos carismáticos, ideológicamente intensos y provenientes incluso de actores internacionales. Esta tendencia sugiere que, mientras existan representaciones políticas afines en el poder estadounidense, la figura de Milei podría seguir siendo positivamente valorada por ese electorado.
-
-Por ello, este tipo de evidencia brinda elementos para afirmar que continuar con este estilo de comunicación en foros internacionales —especialmente aquellos con visibilidad en el público estadounidense— puede representar una ventaja estratégica para el mandatario argentino, tanto en términos de posicionamiento simbólico como de influencia política exterior.
-
-🧾 Créditos y Autoría
-
-Este proyecto fue desarrollado por Maximiliano Mores, estudiante avanzado de Economía, como parte de una investigación académica sobre el impacto discursivo internacional y su medición mediante ciencia de datos.
