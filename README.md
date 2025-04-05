@@ -17,8 +17,6 @@ Se aplicó análisis de sentimiento automático utilizando el algoritmo VADER, e
 
     Jupyter Notebook como entorno de desarrollo
 
-    Matplotlib / Seaborn para visualización de resultados (opcional)
-
     TQDM para seguimiento de procesos en tiempo real
 
 📈 Metodología
